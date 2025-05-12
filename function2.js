@@ -1,1 +1,4 @@
-console.log("Hello, World! from function2a");
+function function2() {
+    console.log("This is a greeting from function2.");
+}
+
